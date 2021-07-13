@@ -6,6 +6,55 @@
 	--maroon: #5A0C13;
 	--black: #0D0909;
 
+	color: var(--black);
+	background-color: var(--white);
+}
+
+.head {
+	width: 80%;
+	margin: auto;
+}
+
+body {
+	margin: 0;
+}
+
+
+header {
+	background-color: var(--maroon);
+}
+
+header::after {
+	content: '';
+	display: table;
+	clear:both;
+}
+
+.logo {
+	float: left;
+	padding: 10px;
+}
+
+nav {
+	float: right;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	float: left;
+	margin-left: 70px;
+}
+
+nav a {
 	color: var(--white);
-	background-color: var(--black)
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: var(--lblue);
 }
