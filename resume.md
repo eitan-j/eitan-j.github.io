@@ -1,24 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Resume</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-</head>
+---
+layout: default
+title: Resume
+---
 
-<body>
-    <header>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="resume.html">Resume</a>
-            <a href="writing.html">Writing</a>
-            <a href="about.html">About</a>
-        </nav>
-    </header>
-
-    <h1>Eitan's Resume</h1>
-    
+<h1>Eitan's Resume</h1>
     <q cite="https://discord.com/channels/350295689789440000/455361640150335538/839540445339058196">the best member of the crossroads staff</q>
-
     <h2>Things I mostly/somewhat understand, or at least undertand enough to be able to use regularly</h2>
     <ul>
         <li>VMware Workstation</li>
@@ -47,5 +33,3 @@
         <li>Arch</li>
         <li>CSS</li>
     </ul>
-</body>
-</html>
