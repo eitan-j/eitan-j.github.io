@@ -32,4 +32,5 @@ title: Resume
     <li>Latin</li>
     <li>Arch</li>
     <li>CSS</li>
+    <li>Jekyll</li>
 </ul>
