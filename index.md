@@ -3,4 +3,6 @@ layout: default
 title: Eitan
 ---
 
-<h1>Welcome</h1>
+<p>Eitan</p>
+<p>/eitan/</p>
+<p>אֵיתָן</p>
