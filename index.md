@@ -4,5 +4,5 @@ title: Eitan
 ---
 
 <p>Eitan</p>
-<p>/eitan/</p>
+<p>/ˈeɪtɑn/</p>
 <p>אֵיתָן</p>
